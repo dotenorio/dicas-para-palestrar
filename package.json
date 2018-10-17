@@ -1,0 +1,25 @@
+{
+  "name": "dicas-para-palestrar",
+  "version": "1.0.0",
+  "description": "Conjunto de dicas de preparação de slides e comportamento em uma palestra",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperParana/dicas-para-palestrar.git"
+  },
+  "keywords": [
+    "palestra",
+    "dicas"
+  ],
+  "author": "DevParaná <contato@devparana.org> (https://blog.devparana.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeveloperParana/dicas-para-palestrar/issues"
+  },
+  "homepage": "https://github.com/DeveloperParana/dicas-para-palestrar#readme",
+  "devDependencies": {
+    "marked": "^0.5.1"
+  }
+}
